@@ -45,9 +45,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioGaspareto&show_icons=true&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioGaspareto&layout=compact&hide_border=true" >
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioGaspareto&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulioGaspareto&theme=github_dark"/>
+</div>
 ---
 
 ## 🧠 Filosofia de código
