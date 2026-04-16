@@ -1,12 +1,5 @@
-# 👋 Olá, eu sou o Julio Gaspareto
 
-💻 Estudante de **Técnico em Desenvolvimento de Sistemas**  
-🚀 Apaixonado por **programação, arquitetura de software e desenvolvimento web**  
-🧠 Sempre aprendendo mais sobre **React, APIs, Backend e boas práticas de código**
-
----
-
-## 🚀 Tecnologias que eu uso
+## Tecnologias que eu uso
 
 ### Frontend
 - React
@@ -51,17 +44,8 @@
 </div>
 ---
 
-## 🧠 Filosofia de código
-
-> "Código bom não é só o que funciona,  
-> é o que qualquer dev consegue entender."
-
----
-
 ## 📫 Onde me encontrar
 
 - GitHub: https://github.com/JulioGaspareto
 
 ---
-
-⭐ Sempre construindo projetos novos e aprendendo algo diferente.
